@@ -1,5 +1,5 @@
 <?php
-$my_email = "registration@ehstconference.com";
+$my_email = "registration@rtese.com";
 $errors = array();
 
 // Remove $_COOKIE elements from $_REQUEST.
@@ -41,11 +41,11 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering for EHST 2017. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering for RTESE 2017. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@ehstconference.com. You can find the copyright form here: www.ehstconference.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@rtese.com. You can find the copyright form here: www.rtese.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@ehstconference.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
+You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@rtese.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
 ---
 
@@ -65,9 +65,9 @@ $headers = "From: " . $_REQUEST['Email'];
 
 $your_email = $_REQUEST['Email'];
 
-$your_subject = "Your Registration Details for EHST'17";
+$your_subject = "Your Registration Details for RTESE'17";
 
-$your_headers = "From: EHST'17 <" . $my_email . ">";
+$your_headers = "From: RTESE'17 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -114,8 +114,8 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
-<meta name="keywords" content="solar thermal energy, solar cell theory and applications, biomass, biofuel, bioenergy, smart buildings, smart lightings, wind energy, geothermal energy, wave energies, tide energies, nuclear energies, prospects, issues, battery energy storage, energy storage, hydroenergy, energy financing, energy companies challenges, energy distribution, energy conversion, electric vehicles, fossil fuels, energy change, climate change, energy pollution, environmental pollution, energy, nanotechnology, low carbon technologies, energy infrastructures, marketing, economy, societal aspects, global energy policy, energy and transportation, sustainable energy, energy efficiency-achievements and challenges, energy management, fuel cells">
-<title>EHST'17 - Registration Form Filled!</title>
+<meta name="keywords" content="environment conference, biofuels conference, desalination conference, wastewater conference, pollution conference, remediation conference, environmental engineering conference, environmental pollution conference, environmental remediation conference, environmental treatment conference, air pollution conference, water pollution conference, wasterwater pollution conference, soil pollution conference, environmental protection, environmental sustainability, environmental development, greenhouse, global warming, climate change, groudwater, oil spills, renewable energy, water treatment, soil treatment, wastewater treatment, environment, biofuels, desalination, wastewater, pollution, remediation, environmental engineering, environmental pollution, environmental remediation, environmental treatment, air pollution, water pollution, wasterwater pollution, soil pollution, environmental protection conference, environmental sustainability conference, environmental development conference, greenhouse conference, global warming conference, climate change conference, groudwater conference, oil spills conference, renewable energy conference, water treatment conference, soil treatment conference, wastewater treatment conference">
+<title>RTESE'17 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -130,7 +130,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <script src="../js/modernizr.custom.63321.js"></script>
 <script>
   (function() {
-    var cx = '016656741306535874023:g8kygswhpfc';
+    var cx = '016656741306535874023:oio_ha3_zco';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -144,7 +144,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>EHST'17</h1>
+  <h1>RTESE'17</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -186,8 +186,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>International Conference on Energy<br>Harvesting, Storage, and Transfer (EHST'17)</h1>
-          <p class="subhead">August 22 - 23, 2017 | Toronto, Canada</p>
+          <h1>International Conference on Recent Trends in<br>Environmental Science and Engineering (RTESE'17)</h1>
+          <p class="subhead">August 24 - 25, 2017 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -212,8 +212,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>International Conference on Energy<br>Harvesting, Storage, and Transfer (EHST'17)</h1>
-          <p class="subhead">August 22 - 23, 2017 | Toronto, Canada</p>
+          <h1>International Conference on Recent Trends in<br>Environmental Science and Engineering (RTESE'17)</h1>
+          <p class="subhead">August 24 - 25, 2017 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -240,8 +240,8 @@ mail($your_email,$your_subject,$message,$your_headers);
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">EHST 2017:</p>
-      <p class="body">EHST 2017 will  be held in Toronto, Canada on August 22 - 23, 2017.</p>
+      <p class="bold">RTESE 2017:</p>
+      <p class="body">RTESE 2017 will  be held in Toronto, Canada on August 24 - 25, 2017.</p>
     </div>          
     <div>
       <h2 class="title">2</h2>
@@ -251,7 +251,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">3</h2>
       <p class="bold">Propose Exhibits, Workshops & More</p>
-      <p class="body">EHST attracts a wide range of researchers in the field of energy harvesting, storage, and transfer. As a prominent company in the field of energy harvesting, storage, and transfer, we would like to offer you an exhibit at EHST. Please visit <a href="../events" class="body-link">Events</a> for more information.</p>
+      <p class="body">RTESE attracts a wide range of researchers in the field of recent trends in environmental science and engineering. As a prominent company in the field of environmental science and engineering, we would like to offer you an exhibit at RTESE. Please visit <a href="../events" class="body-link">Events</a> for more information.</p>
     </div>
   </div>
 
@@ -266,9 +266,9 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <p class="body">If you have requested any official invitation letters, please allow up to 5 business days to receive your documents.</p> 
 
-    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@ehstconference.com" class="body-link">registration@ehstconference.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
+    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@rtese.com" class="body-link">registration@rtese.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at EHST'17!</p>
+  <p class="body">We are looking forward to seeing you at RTESE'17!</p>
   </div>
 </div>
 
@@ -347,13 +347,13 @@ mail($your_email,$your_subject,$message,$your_headers);
     Ottawa, Ontario, Canada<br>
     Postal Code: K1H 7Y3<br>
     +1-613-695-3040<br>
-    <a href="mailto:info@ehstconference.com">info@ehstconference.com</a></p>
+    <a href="mailto:info@rtese.com">info@rtese.com</a></p>
     </div>
   </div>
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding EHST'17, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding RTESE'17, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm">
   

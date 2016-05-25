@@ -1,3 +1,3 @@
-Sitemap: http://www.ehstconference.com/sitemap.xml
+Sitemap: http://www.rtese.com/sitemap.xml
 
 User-agent: *

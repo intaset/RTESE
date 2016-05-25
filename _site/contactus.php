@@ -1,6 +1,6 @@
 <?php
 
-$my_email = "info@ehstconference.com";
+$my_email = "info@rtese.com";
 
 /*
 
@@ -122,8 +122,8 @@ mail($my_email,$subject,$message,$headers);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
-<meta name="keywords" content="">
-<title>EHST'17 - Contact Us</title>
+<meta name="keywords" content="environment conference, biofuels conference, desalination conference, wastewater conference, pollution conference, remediation conference, environmental engineering conference, environmental pollution conference, environmental remediation conference, environmental treatment conference, air pollution conference, water pollution conference, wasterwater pollution conference, soil pollution conference, environmental protection, environmental sustainability, environmental development, greenhouse, global warming, climate change, groudwater, oil spills, renewable energy, water treatment, soil treatment, wastewater treatment, environment, biofuels, desalination, wastewater, pollution, remediation, environmental engineering, environmental pollution, environmental remediation, environmental treatment, air pollution, water pollution, wasterwater pollution, soil pollution, environmental protection conference, environmental sustainability conference, environmental development conference, greenhouse conference, global warming conference, climate change conference, groudwater conference, oil spills conference, renewable energy conference, water treatment conference, soil treatment conference, wastewater treatment conference">
+<title>RTESE'17 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -138,7 +138,7 @@ mail($my_email,$subject,$message,$headers);
 <script src="../js/modernizr.custom.63321.js"></script>
 <script>
   (function() {
-    var cx = '016656741306535874023:g8kygswhpfc';
+    var cx = '016656741306535874023:oio_ha3_zco';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -152,7 +152,7 @@ mail($my_email,$subject,$message,$headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>EHST'17</h1>
+  <h1>RTESE'17</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -194,8 +194,8 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
         <div class="bg">
-          <h1>International Conference on Energy<br>Harvesting, Storage, and Transfer (EHST'17)</h1>
-          <p class="subhead">August 22 - 23, 2017 | Toronto, Canada</p>
+          <h1>International Conference on Recent Trends in<br>Environmental Science and Engineering (RTESE'17)</h1>
+          <p class="subhead">August 24 - 25, 2017 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -220,8 +220,8 @@ mail($my_email,$subject,$message,$headers);
         </div>
 
         <div class="bg">
-          <h1>International Conference on Energy<br>Harvesting, Storage, and Transfer (EHST'17)</h1>
-          <p class="subhead">August 22 - 23, 2017 | Toronto, Canada</p>
+          <h1>International Conference on Recent Trends in<br>Environmental Science and Engineering (RTESE'17)</h1>
+          <p class="subhead">August 24 - 25, 2017 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -248,8 +248,8 @@ mail($my_email,$subject,$message,$headers);
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">EHST 2017:</p>
-      <p class="body">EHST 2017 will  be held in Toronto, Canada on August 22 - 23, 2017.</p>
+      <p class="bold">RTESE 2017:</p>
+      <p class="body">RTESE 2017 will  be held in Toronto, Canada on August 24 - 25, 2017.</p>
     </div>          
     <div>
       <h2 class="title">2</h2>
@@ -259,7 +259,7 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">3</h2>
       <p class="bold">Propose Exhibits, Workshops & More</p>
-      <p class="body">EHST attracts a wide range of researchers in the field of energy harvesting, storage, and transfers. As a prominent company in the field of control, dynamic systems and robotics, we would like to offer you an exhibit at EHST. Please visit <a href="../events" class="body-link">Events</a> for more information.</p>
+      <p class="body">RTESE attracts a wide range of researchers in the field of recent trends in environmental science and engineering. As a prominent company in the field of environmental science and engineering, we would like to offer you an exhibit at RTESE. Please visit <a href="../events" class="body-link">Events</a> for more information.</p>
     </div>
   </div>
 
@@ -269,7 +269,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in EHST'17.</p>
+    Thank you for your interest in RTESE'17.</p>
   </div>
 </div>
 
@@ -348,13 +348,13 @@ mail($my_email,$subject,$message,$headers);
     Ottawa, Ontario, Canada<br>
     Postal Code: K1H 7Y3<br>
     +1-613-695-3040<br>
-    <a href="mailto:info@ehstconference.com">info@ehstconference.com</a></p>
+    <a href="mailto:info@rtese.com">info@rtese.com</a></p>
     </div>
   </div>
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding EHST'17, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding RTESE'17, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm">
   

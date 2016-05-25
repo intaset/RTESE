@@ -85,7 +85,7 @@ h2 {
   font-weight: 400;
   font-size: 0.84em;
   margin: 0;
-  color: #BBDA8C;
+  color: #B4CC65;
   text-transform: uppercase;
   line-height: initial;
   letter-spacing: 0.5px;
@@ -99,7 +99,7 @@ font-family: 'Lato', sans-serif;
 text-transform: uppercase;
 font-size: 1.5em;
 margin: 0;
-color: #2D95D2;
+color: #43823D;
 }
 
 .body {
@@ -128,13 +128,13 @@ margin: 0;
 }
 
 .body-link {
-color: #BBDA8C;
+color: #B4CC65;
 text-decoration: none;
 transition: all 0.8s linear;
 }
 
 .body-link:hover {
-color: #2D95D2;
+color: #43823D;
 }
 
 .mob-link {
@@ -179,7 +179,7 @@ blockquote {
 }
 
 .content tr {
-  border-bottom: 1px solid #BBDA8C;
+  border-bottom: 1px solid #B4CC65;
 }
 
 th {
@@ -189,7 +189,7 @@ th {
 .date-title {
   display: block;
   padding: 0.5em;
-  background-color: #BBDA8C;
+  background-color: #B4CC65;
   color: #FFF;
 }
 
@@ -223,12 +223,12 @@ th {
 	text-align: right;
 	text-decoration: none;
 	text-transform: uppercase;
-	color: #2D95D2;
+	color: #43823D;
 	transition: all 0.8s ease;
 }
 
 .top:hover {
-	color: #BBDA8C;
+	color: #B4CC65;
 }
 
 .top:before {
@@ -246,7 +246,7 @@ th {
 }
 
 .keynotes {
-	border-bottom: #2D95D2 1px solid;
+	border-bottom: #43823D 1px solid;
 	text-align: left;
 }
 
@@ -255,7 +255,7 @@ th {
 }
 
 .keynotes a {
-	color: #BBDA8C;
+	color: #B4CC65;
 	text-decoration: none;
 	border-bottom: 1px solid;
 	transition: all 0.3s linear;
@@ -296,7 +296,7 @@ th {
 }
 
 .pdf {
-	color: #BBDA8C;
+	color: #B4CC65;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -304,7 +304,7 @@ th {
 }
 
 .pdf:hover {
-	color: #2D95D2;
+	color: #43823D;
 }
 
 .pdf img {
@@ -316,7 +316,7 @@ th {
 }
 
 .keynote-info .top a {
-	color: #2D95D2;
+	color: #43823D;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -324,11 +324,11 @@ th {
 }
 
 .keynote-info .top a:hover {
-	color: #BBDA8C;
+	color: #B4CC65;
 }
 
 .border {
-	border-bottom: #2D95D2 1px solid;
+	border-bottom: #43823D 1px solid;
 }
 
 /* HEADER & NAVIGATION */
@@ -339,7 +339,7 @@ h1 {
 	padding: 0.5em 0.5em 1em;
     font-size: 1.25em!important;
 	margin: 0!important;
-	color: #BBDA8C;
+	color: #B4CC65;
 }
 
 .subhead {
@@ -349,7 +349,7 @@ h1 {
   padding: 0 1em 1em;
   font-size: 1em!important;
   margin: 0;
-  color: #2D95D2;
+  color: #43823D;
   letter-spacing: 4px;
 }
 
@@ -362,7 +362,7 @@ h1 {
 .bg-link {
 	border: 1px solid;
 	padding: 0.5em;
-	color: #2D95D2;
+	color: #43823D;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
@@ -374,14 +374,14 @@ h1 {
 }
 
 .bg-link:hover {
-	background-color: #BBDA8C;
-	border: 1px solid #BBDA8C;
+	background-color: #B4CC65;
+	border: 1px solid #B4CC65;
 	color: #FFF;
 }
 
 .dot {
 	display: none;
-	color: #2D95D2;
+	color: #43823D;
 	font-size: 2em;
 	vertical-align: middle;
 	margin: 0;
@@ -410,7 +410,7 @@ nav#slide-menu {
 	width: 100%;
 	max-width: 141px;
 	height: 100%;
-	  background-color: #2D95D2;
+	  background-color: #43823D;
 	overflow-x: hidden;
 overflow-y: scroll;
   z-index: 99999;
@@ -503,7 +503,7 @@ transition: all 300ms;
 			display: inline-block;
 			width: 36px;
 			height: 36px;
-			color: #BBDA8C;
+			color: #B4CC65;
 			font-family: "icomoon";
 			font-style: normal;
 			font-size: 1.2em;
@@ -522,7 +522,7 @@ transition: all 300ms;
 		}
 
 		.menu-trigger:hover:before { 
-			color: #2D95D2;
+			color: #43823D;
 		}
 
 		.menu-active .menu-trigger:after { 
@@ -530,7 +530,7 @@ transition: all 300ms;
 			display: inline-block;
 			width: 36px;
 			height: 36px;
-			color: #2D95D2;
+			color: #43823D;
 			background-color: #FFF;
 			font-family: "icomoon";
 			font-style: normal;
@@ -546,7 +546,7 @@ transition: all 300ms;
 		}
 
 		.menu-trigger:hover:after {
-			color: #BBDA8C;
+			color: #B4CC65;
 		}
 
 body.menu-active div#content { right: 141px;}
@@ -565,7 +565,7 @@ padding: 0;
 }
 
 .searchbox .body {
-  color: #BBDA8C;
+  color: #B4CC65;
   text-align: center;
   padding: 3px 0;
 }
@@ -604,7 +604,7 @@ margin-bottom: 0px!important;
 }
 
 .gsst_a .gscb_a {
-color: #BBDA8C!important;
+color: #B4CC65!important;
 cursor: pointer;
 }
 
@@ -636,7 +636,7 @@ border-radius: 0!important;
 -moz-border-radius: 0!important;
 -webkit-border-radius: 0!important;
 border-color: none!important;
-background-color: #2D95D2!important;
+background-color: #43823D!important;
 background-image: none!important;
 filter: none!important;
 }
@@ -667,7 +667,7 @@ display: none;
 
 /*UPCOMING DATES*/
 .date {
-	background-color: #2D95D2;
+	background-color: #43823D;
   padding: 0.5em;
   color: #FFF;
   font-family: 'Lato', sans-serif;
@@ -680,7 +680,7 @@ display: none;
 }
 
 .past-text {
-	color: #2D95D2;
+	color: #43823D;
 }
 
 .events {
@@ -693,7 +693,7 @@ padding-bottom: 0;
 
 /* FOOTER */
 footer {
-  background-color: #BBDA8C;
+  background-color: #B4CC65;
   color: #FFF;
   padding: 1em;
 }
@@ -714,7 +714,7 @@ footer a {
 }
 
 footer a:hover {
-	color: #2D95D2;
+	color: #43823D;
 	border-bottom: 1px solid;
 }
 
@@ -724,7 +724,7 @@ footer form {
 
 footer input[type="submit"], footer input[type="reset"] {
   background-color: #FFF;
-  color: #BBDA8C;
+  color: #B4CC65;
 }
 
 footer input[type="submit"]:hover, footer input[type="reset"]:hover {
@@ -754,14 +754,14 @@ textarea {
 }
 
 .copyright a {
-	color: #BBDA8C;
+	color: #B4CC65;
 	text-transform: uppercase;
 	text-decoration: none;
 	transition: all 0.8s ease;
 }
 
 .copyright a:hover {
-	color: #2D95D2;
+	color: #43823D;
 	border-bottom: 1px solid;
 }
 
@@ -789,7 +789,7 @@ textarea {
 /* ---------------- ---------------------- */
 /* ACCOMMODATION */
 .ls-select-box:hover {
-	background-color: #2D95D2;
+	background-color: #43823D;
 	color: #FFF;
 }
 
@@ -816,7 +816,7 @@ button, input, select, textarea {
 input[type="button"], input[type="reset"], input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer;
-  background-color: #BBDA8C;
+  background-color: #B4CC65;
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   color: #FFF;
@@ -831,7 +831,7 @@ input[type="button"], input[type="reset"], input[type="submit"] {
 }
 
 input[type="reset"]:hover, input[type="submit"]:hover {
-  background-color: #2D95D2;
+  background-color: #43823D;
 }
 
 .paypal table {
@@ -855,12 +855,12 @@ input[type="reset"]:hover, input[type="submit"]:hover {
 }
 
 .accommodation td {
-	border: 1px solid #BBDA8C;
+	border: 1px solid #B4CC65;
 	padding: 0 1em;
 }
 
 .bottom-border {
-	border-bottom: 1px solid #2D95D2;
+	border-bottom: 1px solid #43823D;
 	padding-top: 1em;
 }
 
@@ -1183,7 +1183,7 @@ footer {
 
 	.cbp-af-inner nav .dot {
   		font-size: 1em;
-  		color: #2D95D2;
+  		color: #43823D;
   		padding: 0 0.4em;
 	}
 
@@ -1193,7 +1193,7 @@ footer {
 	}
 
 	.cbp-af-header nav a:hover {
-	background-color: #2D95D2;
+	background-color: #43823D;
 	padding: 1em 0.1em;
 	color: #FFF!important;
 	}
@@ -1215,7 +1215,7 @@ h1 {
 
 .subhead {
   padding: 0 1em 1.5em;
-  color: #2D95D2;
+  color: #43823D;
 }
 
 .main-content {
@@ -1245,7 +1245,7 @@ h2 {
   padding: 0.5em;
   background-color: transparent;
   color: #000;
-  border-right: 1px solid #BBDA8C;
+  border-right: 1px solid #B4CC65;
     font-weight: 500;
 }
 

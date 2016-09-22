@@ -250,6 +250,9 @@ mail($my_email,$subject,$message,$headers);
       <h2 class="title">1</h2>
       <p class="bold">RTESE 2017:</p>
       <p class="body">RTESE 2017 will  be held in Toronto, Canada on August 24 - 25, 2017.</p>
+
+       <p class="bold">Call For Papers:</p>
+      <p class="body">For more information about the RTESE'17 Conference, please view the <a href="http://rtese.com/Toronto_CFP_RTESE.pdf" class="body-link">flyer</a>.</p>
     </div>          
     <div>
       <h2 class="title">2</h2>

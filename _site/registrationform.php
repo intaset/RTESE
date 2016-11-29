@@ -198,7 +198,9 @@ mail($your_email,$your_subject,$message,$your_headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+      <p class="body" style="text-align: center!important;">For more information about the RTESE'17 Conference, please view the <b><a href="../RTESE17_CFP.pdf" class="body-link">conference flyer</a></b>.</p>
+      
         </div>
     </div>
 
@@ -224,7 +226,10 @@ mail($your_email,$your_subject,$message,$your_headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+      <p class="body" style="text-align: center!important; color: #FFF!important;">For more information about the RTESE'17 Conference, please view the <b><a href="../RTESE17_CFP.pdf" class="body-link">conference flyer</a></b>.</p>
+
         </div>
         </div> 
       </div>

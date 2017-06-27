@@ -104,7 +104,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on Recent Trends in<br>Environmental Science and Engineering (RTESE'18)</h1>
-          <p class="subhead">June 14 - 16, 2018 | Toronto, Canada</p>
+          <p class="subhead">June 17 - 19, 2018 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -132,7 +132,7 @@ mail($my_email,$subject,$message,$headers);
 
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on Recent Trends in<br>Environmental Science and Engineering (RTESE'18)</h1>
-          <p class="subhead">June 14 - 16, 2018 | Toronto, Canada</p>
+          <p class="subhead">June 17 - 19, 2018 | Toronto, Canada</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -163,10 +163,10 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">RTESE 2018:</p>
-      <p class="body">RTESE 2018 will  be held in Toronto, Canada on June 14 - 16, 2018.</p>
+      <p class="body">RTESE 2018 will  be held in Toronto, Canada on June 17 - 19, 2018.</p>
       
     <!--   <p class="bold">RTESE'18 Workshop</p>
-      <p class="body">As per popular request, the organizing committee has decided to extend the RTESE'18 conference to three days (now June 14 - 16, 2018). The new high-level schedule is as follows:</p>
+      <p class="body">As per popular request, the organizing committee has decided to extend the RTESE'18 conference to three days (now June 17 - 19, 2018). The new high-level schedule is as follows:</p>
 
       <ul>
         <li>Day 1: Registration</li>
@@ -254,7 +254,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
     <!-- <div class="past">May 15, 2018</div> -->
-    Jun. 14 - 16, 2018
+    Jun. 17 - 19, 2018
   </div>
 </div>
 

@@ -199,7 +199,7 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
 </div><!-- <br>
-      <p class="body" style="text-align: center!important;">For more information about the RTESE'18 Conference, please view the <b><a href="../RTESE17_CFP.pdf" class="body-link">conference flyer</a></b>.</p> -->
+      <p class="body" style="text-align: center!important;">For more information about the RTESE'18 Conference, please view the <b><a href="../RTESE18_CFP.pdf" class="body-link">conference flyer</a></b>.</p> -->
       <br><br>
         </div>
     </div>
@@ -228,7 +228,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
 </div><br><br>
 
-      <!-- <p class="body" style="text-align: center!important; color: #FFF!important;">For more information about the RTESE'18 Conference, please view the <b><a href="../RTESE17_CFP.pdf" class="body-link">conference flyer</a></b>.</p> -->
+      <!-- <p class="body" style="text-align: center!important; color: #FFF!important;">For more information about the RTESE'18 Conference, please view the <b><a href="../RTESE18_CFP.pdf" class="body-link">conference flyer</a></b>.</p> -->
 
         </div>
         </div> 

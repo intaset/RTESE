@@ -450,21 +450,27 @@ from the 1960s to Today<br>
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true"> <!-- Paper Group Starts-->
 
 
+
+
 <div class="panel panel-default"><!-- Individual Paper Starts-->
-    <div class="panel-heading" role="tab" id="heading109">
+    <div class="panel-heading" role="tab" id="heading111">
       <h4 class="panel-title">
-        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse109" aria-expanded="false" aria-controls="collapse109">Development of a Model for Energy Management Decisions in Refurbishment of Buildings<br></a>
-          <small>Farhad Amirifard, Concordia University, Canada</small>
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse111" aria-expanded="false" aria-controls="collapse111">Sustainable Efficiency (Sefficiency) of Water Use Systems Amidst Environmental Impacts<br></a>
+          <small>Naim Haie, University of Minho, Portugal</small>
       </h4>
     </div>
 
-    <div id="collapse109" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading109">
+    <div id="collapse111" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading111">
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
           <dd>11:15 - 11:35</dd>
           <dt>Authors</dt>
-          <dd>Farhad Amirifard, Fuzhan Nasiri </dd>
+          <dd>Naim Haie</dd>
+          <dt>Abstract</dt>
+          <dd>Water use systems (WUSs), such as, urban areas and irrigated agriculture, are under increasing pressure due to various uncertain drivers, such as, global warming and population increase. Because of these phenomena, water scarcity and pollution are increasing causing severe economic, environmental and social damages. Consequently, water management and design (WMD) must focus on comprehensive performance of WUSs by integrating three pillars: water quantity, quality and benefits. These are the foundations of a new framework called Sefficiency, which incorporates the three dimensions of sustainability: environmental, economic and social. Sefficiency indicators have three levels Macro, Meso and Micro (3ME, in %), which make the trade-offs between pillars, dimensions and levels transparent. The crucial distinction between water use and water consumption produces both IN / OUT Sefficiency indicators, crucial for comprehensive and systemic analyses. The logical proof of Sefficiency is objective based on the water balance principle for any WUS under analysis. This universal law guarantees the robustness of the results of 3ME by defining nine Water Flow path Types (WFT). The fact that they are fixed and hydrologically unambiguous promotes a powerful and explicit enabler for active and effective involvement of various types of stakeholders. Usefulness Criterion for each WFT and/or Water Flow Paths is the multiplicative impact of both water quality and beneficial weights. Hence, Sefficiency is the ratio of useful outflow to its corresponding total useful flow, which can reveal the complexities and non-linearities in WMD. For this paper, after presenting a summary of Sefficiency, a simple agricultural example is explained, showing some of the possibilities of Sefficiency. For example, the use of technology as a positive change agent may, under some circumstances, prove to be harmful. This is particularly so if the system has more than one objective, such as, food production and groundwater recharge or pollution control.</dd>
+          <dt>Keywords</dt>
+          <dd>Sustainable efficiency, Sefficiency; water management; trade-off; water balance; pollution; benefits; water use and water consumption; Multi-level water reallocation</dd>
         </dl>
       </div>
     </div>
@@ -472,29 +478,28 @@ from the 1960s to Today<br>
 
 
 <div class="panel panel-default"><!-- Individual Paper Starts-->
-    <div class="panel-heading" role="tab" id="heading119">
+    <div class="panel-heading" role="tab" id="heading133">
       <h4 class="panel-title">
-        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse119" aria-expanded="false" aria-controls="collapse119">Effect of South African Quaternary Extenders on Early Compressive Strength<br></a>
-          <small>Abiodun Akinwale, University of South Africa, South Africa</small>
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse133" aria-expanded="false" aria-controls="collapse133">Climate Change Trend in Fars Province, Iran and Its Effect on Groundwater Crisis <br></a>
+          <small>Nozar Samani, Shiraz University, Iran</small>
       </h4>
     </div>
 
-    <div id="collapse119" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading119">
+    <div id="collapse133" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading133">
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
           <dd>11:35 - 11:55</dd>
           <dt>Authors</dt>
-          <dd>Abiodun Ebenezer Akinwale, Bolanle Deborah Ikotun, Ayo Samuel Afolabi</dd>
+          <dd>Nozar Samani, Zahra Jamshidi</dd>
           <dt>Abstract</dt>
-          <dd>In this paper, the embedded reinforcement in concrete are usually sheltered from corrosion by a thick oxide layer formed on their exteriors because of the highly alkalinity of the exposed environment of the adjoining concrete which thus affect both the strength and durability of the affected structures. In spite of this protective mechanism, corrosion of the reinforcement remains one of the biggest common durability challenges. On the other hand, this destructive phenomenon affects not only the durability but the strength of the affected structures. However, the use of cementitious blends which has generated huge research interest for many years has greatly increased due to environmental concern and awareness. The present study focusses on investigating the effect of quaternary combination of South African supplementary cementitious materials on the early strength development of the concrete with a view to encourage local usage of these power plant by-products and to encourage reduction of CO2 emission during the cement production.</dd>
+          <dd>In recent years, Fars Province in southern Iran has suffered from drought and faced with serious challenges in the water sector, including but not limited to rising water demand and shortage, declining groundwater levels, deteriorating water quality, and increasing ecosystem losses. Climate change is blamed for water crisis. To investigate the trend of climate change and its effect on water crisis, the change-point years in temperature, precipitation and groundwater level time series in Fars Province, Iran were determined for the period 1974-2014 (40 years) and compared with the change year in groundwater level, river discharge and the Southern Oscillation Index (SOI) data. In 12 stations distributed in the province, annual, half-yearly, seasonal and monthly time series were analyzed.  The Pettitt-Mann-Whitney, Mann-Whitney-Wilcoxon and Cumulative Sum tests were applied to determine the significance of the detected changes. The result indicates that 1998 and 1995 are the most probable change-point years in the time series of precipitation and temperature, respectively. Compared to the period before 1998 and 1995, annual precipitation and temperature over the province have decreased and increased, respectively. Seasonal precipitation amounts have generally decreased during Autumn, Winter and Spring. In consistence with this finding, the change-point year in SOI time series was found to be the year 1998 that indicates the possible forcing effects of the El Nino-Southern Oscillation (ENSO) phenomenon on the Fars Province climate. Most probably, La Nina phenomenon reduced precipitation in Fars province.  However, changes detected in the time series of groundwater level are not consistence with those of climate parameters. It seems that inefficient agriculture sector, mismanagement, over-extraction and thirst for development are main causes for water crisis and the climate change has triggered the crisis.</dd>
           <dt>Keywords</dt>
-          <dd>Cementitious blends, Compressive strength, early strength development, quaternary, supplementary materials, extenders.</dd>
+          <dd>Climate change, change-point, Mann-Whitney-Pettitt test, SOI, La Nina</dd>
         </dl>
       </div>
     </div>
 </div> <!-- Individual Paper Ends-->
-
 
 
 
@@ -930,24 +935,20 @@ from the 1960s to Today<br>
 
 
 <div class="panel panel-default"><!-- Individual Paper Starts-->
-    <div class="panel-heading" role="tab" id="heading111">
+    <div class="panel-heading" role="tab" id="heading109">
       <h4 class="panel-title">
-        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse111" aria-expanded="false" aria-controls="collapse111">Sustainable Efficiency (Sefficiency) of Water Use Systems Amidst Environmental Impacts<br></a>
-          <small>Naim Haie, University of Minho, Portugal</small>
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse109" aria-expanded="false" aria-controls="collapse109">Development of a Model for Energy Management Decisions in Refurbishment of Buildings<br></a>
+          <small>Farhad Amirifard, Concordia University, Canada</small>
       </h4>
     </div>
 
-    <div id="collapse111" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading111">
+    <div id="collapse109" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading109">
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:10 - 2:30</dd>
+          <dd>2:10 - 2:20</dd>
           <dt>Authors</dt>
-          <dd>Naim Haie</dd>
-          <dt>Abstract</dt>
-          <dd>Water use systems (WUSs), such as, urban areas and irrigated agriculture, are under increasing pressure due to various uncertain drivers, such as, global warming and population increase. Because of these phenomena, water scarcity and pollution are increasing causing severe economic, environmental and social damages. Consequently, water management and design (WMD) must focus on comprehensive performance of WUSs by integrating three pillars: water quantity, quality and benefits. These are the foundations of a new framework called Sefficiency, which incorporates the three dimensions of sustainability: environmental, economic and social. Sefficiency indicators have three levels Macro, Meso and Micro (3ME, in %), which make the trade-offs between pillars, dimensions and levels transparent. The crucial distinction between water use and water consumption produces both IN / OUT Sefficiency indicators, crucial for comprehensive and systemic analyses. The logical proof of Sefficiency is objective based on the water balance principle for any WUS under analysis. This universal law guarantees the robustness of the results of 3ME by defining nine Water Flow path Types (WFT). The fact that they are fixed and hydrologically unambiguous promotes a powerful and explicit enabler for active and effective involvement of various types of stakeholders. Usefulness Criterion for each WFT and/or Water Flow Paths is the multiplicative impact of both water quality and beneficial weights. Hence, Sefficiency is the ratio of useful outflow to its corresponding total useful flow, which can reveal the complexities and non-linearities in WMD. For this paper, after presenting a summary of Sefficiency, a simple agricultural example is explained, showing some of the possibilities of Sefficiency. For example, the use of technology as a positive change agent may, under some circumstances, prove to be harmful. This is particularly so if the system has more than one objective, such as, food production and groundwater recharge or pollution control.</dd>
-          <dt>Keywords</dt>
-          <dd>Sustainable efficiency, Sefficiency; water management; trade-off; water balance; pollution; benefits; water use and water consumption; Multi-level water reallocation</dd>
+          <dd>Farhad Amirifard, Fuzhan Nasiri </dd>
         </dl>
       </div>
     </div>
@@ -955,24 +956,24 @@ from the 1960s to Today<br>
 
 
 <div class="panel panel-default"><!-- Individual Paper Starts-->
-    <div class="panel-heading" role="tab" id="heading133">
+    <div class="panel-heading" role="tab" id="heading119">
       <h4 class="panel-title">
-        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse133" aria-expanded="false" aria-controls="collapse133">Climate Change Trend in Fars Province, Iran and Its Effect on Groundwater Crisis <br></a>
-          <small>Nozar Samani, Shiraz University, Iran</small>
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse119" aria-expanded="false" aria-controls="collapse119">Effect of South African Quaternary Extenders on Early Compressive Strength<br></a>
+          <small>Abiodun Akinwale, University of South Africa, South Africa</small>
       </h4>
     </div>
 
-    <div id="collapse133" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading133">
+    <div id="collapse119" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading119">
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:30 - 2:40</dd>
+          <dd>2:20 - 2:40</dd>
           <dt>Authors</dt>
-          <dd>Nozar Samani, Zahra Jamshidi</dd>
+          <dd>Abiodun Ebenezer Akinwale, Bolanle Deborah Ikotun, Ayo Samuel Afolabi</dd>
           <dt>Abstract</dt>
-          <dd>In recent years, Fars Province in southern Iran has suffered from drought and faced with serious challenges in the water sector, including but not limited to rising water demand and shortage, declining groundwater levels, deteriorating water quality, and increasing ecosystem losses. Climate change is blamed for water crisis. To investigate the trend of climate change and its effect on water crisis, the change-point years in temperature, precipitation and groundwater level time series in Fars Province, Iran were determined for the period 1974-2014 (40 years) and compared with the change year in groundwater level, river discharge and the Southern Oscillation Index (SOI) data. In 12 stations distributed in the province, annual, half-yearly, seasonal and monthly time series were analyzed.  The Pettitt-Mann-Whitney, Mann-Whitney-Wilcoxon and Cumulative Sum tests were applied to determine the significance of the detected changes. The result indicates that 1998 and 1995 are the most probable change-point years in the time series of precipitation and temperature, respectively. Compared to the period before 1998 and 1995, annual precipitation and temperature over the province have decreased and increased, respectively. Seasonal precipitation amounts have generally decreased during Autumn, Winter and Spring. In consistence with this finding, the change-point year in SOI time series was found to be the year 1998 that indicates the possible forcing effects of the El Nino-Southern Oscillation (ENSO) phenomenon on the Fars Province climate. Most probably, La Nina phenomenon reduced precipitation in Fars province.  However, changes detected in the time series of groundwater level are not consistence with those of climate parameters. It seems that inefficient agriculture sector, mismanagement, over-extraction and thirst for development are main causes for water crisis and the climate change has triggered the crisis.</dd>
+          <dd>In this paper, the embedded reinforcement in concrete are usually sheltered from corrosion by a thick oxide layer formed on their exteriors because of the highly alkalinity of the exposed environment of the adjoining concrete which thus affect both the strength and durability of the affected structures. In spite of this protective mechanism, corrosion of the reinforcement remains one of the biggest common durability challenges. On the other hand, this destructive phenomenon affects not only the durability but the strength of the affected structures. However, the use of cementitious blends which has generated huge research interest for many years has greatly increased due to environmental concern and awareness. The present study focusses on investigating the effect of quaternary combination of South African supplementary cementitious materials on the early strength development of the concrete with a view to encourage local usage of these power plant by-products and to encourage reduction of CO2 emission during the cement production.</dd>
           <dt>Keywords</dt>
-          <dd>Climate change, change-point, Mann-Whitney-Pettitt test, SOI, La Nina</dd>
+          <dd>Cementitious blends, Compressive strength, early strength development, quaternary, supplementary materials, extenders.</dd>
         </dl>
       </div>
     </div>

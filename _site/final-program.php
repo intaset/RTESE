@@ -582,23 +582,23 @@ from the 1960s to Today<br>
                   <td colspan="3"><h6>Coffee Break</h6></td>
                 </tr>
                 <tr>
-                  <td class="time"><h6>10:50 AM - 12:30 AM</h6></td>      
+                  <td class="time"><h6>10:50 AM - 12:20 AM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Water & Wastewater Pollution and Treatment">Water & Wastewater Pollution and Treatment</a></h4>
                   </td>
                 </tr>
                 <tr class="break">
-                  <td class="time"><h6>12:30 PM - 1:30 PM</h6></td>      
+                  <td class="time"><h6>12:20 PM - 1:20 PM</h6></td>      
                   <td colspan="3"><h6>Lunch</h6></td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>1:30 PM - 2:20 PM</h6></td>      
+                  <td class="time"><h6>1:20 PM - 2:10 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Air Pollution and Treatment">Air Pollution and Treatment</a></h4>
                   </td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>2:20 PM - 2:50 PM</h6></td>      
+                  <td class="time"><h6>2:10 PM - 2:40 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Green Manufacturing and Technologies, Pollution Prevention">Green Manufacturing and Technologies, Pollution Prevention</a></h4>
                   </td>
@@ -654,7 +654,7 @@ from the 1960s to Today<br>
 <a id="Water & Wastewater Pollution and Treatment"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">10:50 AM- 12:30 PM</h6>
+<h6 class="info">10:50 AM- 12:20 PM</h6>
 <h3 class="title">Water & Wastewater Pollution and Treatment<br>
 <small>Session Chair: Dr. Ahmed ElDyasti, York University, CAnada</small></h3>
 <br>
@@ -662,6 +662,29 @@ from the 1960s to Today<br>
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true"> <!-- Paper Group Starts-->
 
+<div class="panel panel-default"><!-- Individual Paper Starts-->
+    <div class="panel-heading" role="tab" id="heading124">
+      <h4 class="panel-title">
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse124" aria-expanded="false" aria-controls="collapse124">Model Studies for Dispersion of Effluent Discharges on Eroding Seabed<br></a>
+          <small>Anton Purnama, Sultan Qaboos University, Oman</small>
+      </h4>
+    </div>
+
+    <div id="collapse124" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading124">
+      <div class="panel-body">
+        <dl class="dl-horizontal">
+          <dt>Time</dt>
+          <dd>10:50 - 11:10</dd>
+          <dt>Authors</dt>
+          <dd>Anton Purnama, Huda Ali Al Maamari, Promise Mebine</dd>
+          <dt>Abstract</dt>
+          <dd>Using an analytical solution of a two-dimensional advection-diffusion equation with a point source on a simple model of seabed depth profile change, the effect of erosion on a sloping seabed upon mixing and dispersion of the outfall effluent discharges in coastal waters is investigated. For near-shore discharges, the maximum value of concentration at the shore is formulated and used as an environmental impact measure that should not be exceeded anywhere along the shoreline. It is found that, the bed erosion increases this maximum value, and installing a multiport diffuser at the end of the outfall long pipeline can supress this increase. </dd>
+          <dt>Keywords</dt>
+          <dd>Advection-diffusion equation, far field model, multiport diffuser, near-shore, sea outfall, shoreline concentration, sloping seabed</dd>
+        </dl>
+      </div>
+    </div>
+</div> <!-- Individual Paper Ends-->
 
 
 <div class="panel panel-default"><!-- Individual Paper Starts-->
@@ -676,7 +699,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>10:50 - 11:00</dd>
+          <dd>11:10 - 11:20</dd>
           <dt>Authors</dt>
           <dd>Hiroyuki Kagami</dd>
         </dl>
@@ -698,7 +721,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:00 - 11:20</dd>
+          <dd>11:20 - 11:40</dd>
           <dt>Authors</dt>
           <dd>Abdelsalam Elawwad, Mohamed Abo-Zaid, Minerva Edward</dd>
           <dt>Abstract</dt>
@@ -723,7 +746,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:20 - 11:30</dd>
+          <dd>11:40 - 11:50</dd>
           <dt>Authors</dt>
           <dd>Gülten Yüksek, Lounes Haroune, Didem Okutman Taş, Hubert Cabana</dd>
         </dl>
@@ -743,7 +766,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:30 - 11:40</dd>
+          <dd>11:50 - 12:00</dd>
           <dt>Authors</dt>
           <dd>Gülten Yüksek, Lounes Haroune, Didem Okutman Taş, Hubert Cabana</dd>
         </dl>
@@ -751,8 +774,8 @@ from the 1960s to Today<br>
     </div>
 </div> <!-- Individual Paper Ends-->
 
-
-<div class="panel panel-default"><!-- Individual Paper Starts-->
+<!-- Individual Paper Starts-->
+<!-- <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="heading103">
       <h4 class="panel-title">
         <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse103" aria-expanded="false" aria-controls="collapse103">Photocatalytic Activity Enhances by Electrophoretic Deposition of BFO on the Stainless-Steel Mesh<br></a>
@@ -770,7 +793,7 @@ from the 1960s to Today<br>
         </dl>
       </div>
     </div>
-</div> <!-- Individual Paper Ends-->
+</div>  --><!-- Individual Paper Ends-->
 
 <div class="panel panel-default"><!-- Individual Paper Starts-->
     <div class="panel-heading" role="tab" id="heading120">
@@ -784,37 +807,13 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>11:50 - 12:10</dd>
+          <dd>12:00 - 12:20</dd>
           <dt>Authors</dt>
           <dd>Tarek J. Jamaleddine, Ramsey Bunama</dd>
           <dt>Abstract</dt>
           <dd>Compressors are widely used in the petrochemical industry to provide a variety of gas properties that are essential for a variety of chemical processes. Among others, ambient air is predominantly used due to its abundancy in nature and its richness in oxygen. It is customary that clean air is supplied to the compressor by means of a commercial air intake filter placed few meters upstream of the compressor inlet. Various ducting configurations are commercially utilized to link the air filter to the compressor inlet. Embedded baffle-type muzzling units are placed inside the ducting for attenuating acoustic noise generated by the incoming high speed compressible flow. It is imperative that these silencer baffles are aerodynamically structured to maintain constant flow conditions dowsntream of the trailing edge for sustaining an efficient compressor operation. In the Gulf region where ambient temperature condition during hot summer day surpasses 45 oC coupled with saturated moist air, controling and maintaining constant conditions upstream of the compressor inlet pose a great challenge. In this paper, we introduce a numerical study employing Computational Fluid Dynamics (CFD) method for predicting the hydrodynamic conditions within the geometrical entity linking the air filter to the compressor inlet boundary in the presence of a set of symmetrical and cusped trailing-edge aerofoil-shaped silencers. Several baffle locations were investigated to analyze the impact of different locations on the pressure losses and temperature conditions upstream of the compressor inlet. Results show that an optimized silencer location can stabilize the flow conditions upstream of the compressor inlet. Among the considered locations, a recommendation was given for the best location that led to a reduced pressure drop across the bluff body and stabilized inlet conditions to the compressor. </dd>
           <dt>Keywords</dt>
           <dd>CFD, compressors, aerodynamic flows, acoustic baffles, silencers, pressure loss</dd>
-        </dl>
-      </div>
-    </div>
-</div> <!-- Individual Paper Ends-->
-
-<div class="panel panel-default"><!-- Individual Paper Starts-->
-    <div class="panel-heading" role="tab" id="heading124">
-      <h4 class="panel-title">
-        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse124" aria-expanded="false" aria-controls="collapse124">Model Studies for Dispersion of Effluent Discharges on Eroding Seabed<br></a>
-          <small>Anton Purnama, Sultan Qaboos University, Oman</small>
-      </h4>
-    </div>
-
-    <div id="collapse124" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading124">
-      <div class="panel-body">
-        <dl class="dl-horizontal">
-          <dt>Time</dt>
-          <dd>12:10 - 12:30</dd>
-          <dt>Authors</dt>
-          <dd>Anton Purnama, Huda Ali Al Maamari, Promise Mebine</dd>
-          <dt>Abstract</dt>
-          <dd>Using an analytical solution of a two-dimensional advection-diffusion equation with a point source on a simple model of seabed depth profile change, the effect of erosion on a sloping seabed upon mixing and dispersion of the outfall effluent discharges in coastal waters is investigated. For near-shore discharges, the maximum value of concentration at the shore is formulated and used as an environmental impact measure that should not be exceeded anywhere along the shoreline. It is found that, the bed erosion increases this maximum value, and installing a multiport diffuser at the end of the outfall long pipeline can supress this increase. </dd>
-          <dt>Keywords</dt>
-          <dd>Advection-diffusion equation, far field model, multiport diffuser, near-shore, sea outfall, shoreline concentration, sloping seabed</dd>
         </dl>
       </div>
     </div>
@@ -831,7 +830,7 @@ from the 1960s to Today<br>
 <a id="Air Pollution and Treatment"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">1:30 PM - 2:20 PM</h6>
+<h6 class="info">1:20 PM - 2:10 PM</h6>
 <h3 class="title">Air Pollution and Treatment<br>
 <small>Session Chair: Dr. Hiroyuki Kagami, Fujita Health University, Japan</small></h3>
 <br>
@@ -852,7 +851,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>1:30 - 1:50</dd>
+          <dd>1:20 - 1:40</dd>
           <dt>Authors</dt>
           <dd>Ewa M. Cukrowska, Bongani N. Yalala, Hlanganani Tutu, Luke Chimuka</dd>
           <dt>Abstract</dt>
@@ -877,7 +876,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>1:50 - 2:10</dd>
+          <dd>1:40 - 2:00</dd>
           <dt>Authors</dt>
           <dd>Raúl Guerrero Torres</dd>
           <dt>Abstract</dt>
@@ -901,7 +900,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:10 - 2:20</dd>
+          <dd>2:00 - 2:10</dd>
           <dt>Authors</dt>
           <dd>Jingya Sun, Yuxiang Han, Haiqin Wan, Shourong Zheng, Lin Dong</dd>
         </dl>
@@ -920,7 +919,7 @@ from the 1960s to Today<br>
 <a id="Green Manufacturing and Technologies, Pollution Prevention"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">2:20 PM- 2:50 PM</h6>
+<h6 class="info">2:10 PM- 2:40 PM</h6>
 <h3 class="title">Green Manufacturing and Technologies, Pollution Prevention<br>
 <small>Session Chair: Dr. Ewa Cukrowska, University of the Witwatersrand, South Africa</small></h3>
 <br>
@@ -942,7 +941,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:20 - 2:40</dd>
+          <dd>2:10 - 2:30</dd>
           <dt>Authors</dt>
           <dd>Naim Haie</dd>
           <dt>Abstract</dt>
@@ -967,7 +966,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:40 - 2:50</dd>
+          <dd>2:30 - 2:40</dd>
           <dt>Authors</dt>
           <dd>Nozar Samani, Zahra Jamshidi</dd>
           <dt>Abstract</dt>

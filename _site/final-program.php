@@ -603,7 +603,7 @@ from the 1960s to Today<br>
                   </td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>2:10 PM - 2:40 PM</h6></td>      
+                  <td class="time"><h6>2:10 PM - 2:50 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Green Manufacturing and Technologies, Pollution Prevention">Green Manufacturing and Technologies, Pollution Prevention</a></h4>
                   </td>
@@ -924,7 +924,7 @@ from the 1960s to Today<br>
 <a id="Green Manufacturing and Technologies, Pollution Prevention"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">2:10 PM- 2:40 PM</h6>
+<h6 class="info">2:10 PM- 2:50 PM</h6>
 <h3 class="title">Green Manufacturing and Technologies, Pollution Prevention<br>
 <small>Session Chair: Dr. Ewa Cukrowska, University of the Witwatersrand, South Africa</small></h3>
 <br>
@@ -974,6 +974,32 @@ from the 1960s to Today<br>
           <dd>In this paper, the embedded reinforcement in concrete are usually sheltered from corrosion by a thick oxide layer formed on their exteriors because of the highly alkalinity of the exposed environment of the adjoining concrete which thus affect both the strength and durability of the affected structures. In spite of this protective mechanism, corrosion of the reinforcement remains one of the biggest common durability challenges. On the other hand, this destructive phenomenon affects not only the durability but the strength of the affected structures. However, the use of cementitious blends which has generated huge research interest for many years has greatly increased due to environmental concern and awareness. The present study focusses on investigating the effect of quaternary combination of South African supplementary cementitious materials on the early strength development of the concrete with a view to encourage local usage of these power plant by-products and to encourage reduction of CO2 emission during the cement production.</dd>
           <dt>Keywords</dt>
           <dd>Cementitious blends, Compressive strength, early strength development, quaternary, supplementary materials, extenders.</dd>
+        </dl>
+      </div>
+    </div>
+</div> <!-- Individual Paper Ends-->
+
+
+
+<div class="panel panel-default"><!-- Individual Paper Starts-->
+    <div class="panel-heading" role="tab" id="heading136">
+      <h4 class="panel-title">
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse136" aria-expanded="false" aria-controls="collapse136">Characterization of Steel Production Dusts: Mössbauer Spectroscopy Study<br></a>
+          <small>Mariola Kądziołka-Gaweł, University of Silesia, Poland</small>
+      </h4>
+    </div>
+
+    <div id="collapse136" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading136">
+      <div class="panel-body">
+        <dl class="dl-horizontal">
+          <dt>Time</dt>
+          <dd>2:40 - 2:50</dd>
+          <dt>Authors</dt>
+          <dd>Mariola Kądziołka-Gaweł, Marzena Rachwał</dd>
+          <!-- <dt>Abstract</dt>
+          <dd></dd>
+          <dt>Keywords</dt>
+          <dd></dd> -->
         </dl>
       </div>
     </div>

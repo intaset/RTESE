@@ -603,7 +603,7 @@ from the 1960s to Today<br>
                   </td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>2:00 PM - 2:40 PM</h6></td>      
+                  <td class="time"><h6>2:00 PM - 3:00 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Green Manufacturing and Technologies, Pollution Prevention">Green Manufacturing and Technologies, Pollution Prevention</a></h4>
                   </td>
@@ -996,6 +996,32 @@ from the 1960s to Today<br>
           <dd></dd>
           <dt>Keywords</dt>
           <dd></dd> -->
+        </dl>
+      </div>
+    </div>
+</div> <!-- Individual Paper Ends-->
+
+
+
+<div class="panel panel-default"><!-- Individual Paper Starts-->
+    <div class="panel-heading" role="tab" id="heading105">
+      <h4 class="panel-title">
+        <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse105" aria-expanded="false" aria-controls="collapse105">Assessment of Plants at Petroleum Contaminated Site for Phytoremediation.<br></a>
+          <small>Raymond Oriebe Anyasi, University of South Africa, South Africa</small>
+      </h4>
+    </div>
+
+    <div id="collapse105" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading105">
+      <div class="panel-body">
+        <dl class="dl-horizontal">
+          <dt>Time</dt>
+          <dd>2:40 - 3:00</dd>
+          <dt>Authors</dt>
+          <dd>Raymond Oriebe Anyasi, Harrison Ifeanyichukwu Atagana</dd>
+          <dt>Abstract</dt>
+          <dd>The study is aimed at identifying native plants growing around petroleum hydrocarbon contaminated site in Umuahia, Nigeria that has the ability to phytoremediate the contaminant from the soil. A total of 28 native plants in the area were sampled. Most of the plants demonstrated the ability to grow in a high concentration of the total petroleum hydrocarbon which is an indication that they can be used for phytoremediation of a petroleum hydrocarbon contaminated soil. Chromolaena odorata, Aspilla africana, Chloris babata, Pasparlum vaginatum, Bryophylum pinnatum, Paspalum scrobiculatum, Spondias mombim, Euragrostis atrovilens, Cyperus rotundus, Uvaria chamae all demonstrated phytoremediation characteristics in the contaminated site. Among those characteristics was the ability to survive the toxic nature of the contamination and to uptake part of the contamination. Pearson correlation demonstrated a significant and positive relations (r = 0.64, p = 0.003) (p ˂ 0.05) between the soil and root TPH. Using bioaccumulation factor as a module for phytoremediation resulted in Linear regression between TPH concentration in the soil and root tissue of Y = 1.8696x + 608.55. From this study, chromolaena odorata, Aspilla Africana and Uvaria chamae were selected as candidate plants for phytoremediation of PAHs.</dd>
+          <dt>Keywords</dt>
+          <dd>Native plants, contaminated sites, PAHs, TPHs, Phytoremediation, Organic compounds</dd>
         </dl>
       </div>
     </div>

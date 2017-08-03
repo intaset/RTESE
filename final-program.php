@@ -603,7 +603,7 @@ from the 1960s to Today<br>
                   </td>
                 </tr>
                  <tr>
-                  <td class="time"><h6>2:00 PM - 3:00 PM</h6></td>      
+                  <td class="time"><h6>2:00 PM - 2:40 PM</h6></td>      
                   <td><span class="section-legend"><small>Session</small></span>
                       <h4><a href="#Green Manufacturing and Technologies, Pollution Prevention">Green Manufacturing and Technologies, Pollution Prevention</a></h4>
                   </td>
@@ -950,8 +950,8 @@ from the 1960s to Today<br>
     </div>
 </div> <!-- Individual Paper Ends-->
 
-
-<div class="panel panel-default"><!-- Individual Paper Starts-->
+<!-- Individual Paper Starts-->
+<!-- <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="heading119">
       <h4 class="panel-title">
         <a  class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse119" aria-expanded="false" aria-controls="collapse119">Effect of South African Quaternary Extenders on Early Compressive Strength<br></a>
@@ -973,7 +973,7 @@ from the 1960s to Today<br>
         </dl>
       </div>
     </div>
-</div> <!-- Individual Paper Ends-->
+</div>  --><!-- Individual Paper Ends-->
 
 
 
@@ -989,7 +989,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:30 - 2:40</dd>
+          <dd>2:10 - 2:20</dd>
           <dt>Authors</dt>
           <dd>Mariola Kądziołka-Gaweł, Marzena Rachwał</dd>
           <!-- <dt>Abstract</dt>
@@ -1015,7 +1015,7 @@ from the 1960s to Today<br>
       <div class="panel-body">
         <dl class="dl-horizontal">
           <dt>Time</dt>
-          <dd>2:40 - 3:00</dd>
+          <dd>2:20 - 2:40</dd>
           <dt>Authors</dt>
           <dd>Raymond Oriebe Anyasi, Harrison Ifeanyichukwu Atagana</dd>
           <dt>Abstract</dt>

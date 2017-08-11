@@ -167,6 +167,7 @@
     <!-- /CONTENT DIV STARTS -->
     <div class="container">
       <h2>Program</h2>
+      <p>The Conference will be held at Ryerson University in the The George Vari Engineering and Computing Centre. Please <a href="http://goo.gl/maps/op3WS" target="_blank">click here</a> for map of the location.</p>
      
       <br>
 
@@ -197,7 +198,8 @@
                 <tbody>
                 <tr class="admin">
                   <td class="time"><h6>3:00 PM - 5:00 PM</h6></td>      
-                  <td colspan="3"><h6>Registrations</h6></td>
+                  <td colspan="3"><h5>Registrations<br>
+                    <small>Registrations will be taking place in the hall next to room ENG-LG-015.</small></h5></td>
                 </tr>
                 </tbody>
             </table>
@@ -218,7 +220,9 @@
                   <td class="time"><h6>8:00 AM - 9:00 AM</h6></td>      
                   <td><h6>Registrations</h6></td>
                 </tr>
-                
+                <tr class="admin">
+                  <td colspan="2"><h6>Room: ENG-LG-021</h6></td>
+                </tr>
                 <tr>
                   <td class="time"><h6>9:00 AM - 9:15 AM</h6></td>      
                   <td><h4>Official Opening<br>
@@ -329,7 +333,7 @@ from the 1960s to Today<br>
 <a id="Poster Session"></a>
 <div class="section">
 <p class="legend">Session</p>
-<h6 class="info">10:45 AM- 11:15 AM</h6>
+<h6 class="info">10:45 AM- 11:15 AM  I  The Poster Session will be taking place in the hall next to room ENG-LG-015</h6>
 <h3 class="title">Poster Session<br>
 <small>Session Chair: Dr. Nozar Samani, Shiraz University, Iran</small></h3>
 <br>
@@ -566,7 +570,7 @@ from the 1960s to Today<br>
             <table class="table table-bordered">
                 <tbody>
                 <tr class="admin">
-                  <td colspan="2"><h6>Room 1</h6></td>   
+                  <td colspan="2"><h6>Room ENG-LG-021</h6></td>   
                 </tr>
                 <tr>
                   <td class="time"><h6>9:00 AM - 9:45 AM</h6></td>      

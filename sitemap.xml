@@ -2,113 +2,82 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-   <url>
-
-      <loc>http://www.rtese.com/index.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.rtese.com/papers.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/program.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/dates.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/registration.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/committee.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/keynote.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/sponsor.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/venue.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/accommodation.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.rtese.com/symposium.html</loc>
-
-      <lastmod>2017-06-26</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>https://rtese.com/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>https://rtese.com/past-events/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://rtese.com/ICCSTE19_RTESE19_CFP.pdf</loc>
+   <lastmod>2018-10-02</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://rtese.com/papers/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/program/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/dates/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/registration/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/committee/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/keynote/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/venue/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/accommodation/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/sponsor/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://rtese.com/symposium/</loc>
+   <lastmod>2018-09-27</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
 </urlset>
